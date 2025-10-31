@@ -1,4 +1,4 @@
-: Enable verbose output for specified action
+: Enable verbose output for specified action\n
 ucupdate -q
 : Query CPU signatures and microcode revisions
 ucupdate -i <filename.pdb>
